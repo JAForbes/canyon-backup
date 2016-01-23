@@ -1,0 +1,72 @@
+body
+{
+	background-color: #000;
+	color: #CCF;
+	font-family: 'Lucida Console';
+}
+table
+{
+}
+td
+{
+	font-size: 13px;
+	padding: 10px;
+}
+/*FOR IE*/
+a, img {
+    border:none;
+}
+a
+{	
+	color: #FFF;
+}
+#game
+{
+	width:800px;
+	height:600px;
+}
+.babyx-heading
+{
+	width:250px;
+	margin:0px auto;
+}
+.album
+{
+	padding-top:10px;
+	width:550px;
+	margin:0px auto;
+	opacity:0.9;
+}
+#boxbox
+{
+	margin:0px auto;
+	width:400px;
+	padding-bottom: 100px;
+}
+.box
+{
+	width: 90px;
+	height: 90px;
+	background-color: #AAA;
+	margin:5px;
+	float: left;
+	word-wrap:break-word;
+	opacity: 0.7;
+}
+.box:hover
+{
+	opacity: 1;
+}
+.album:hover
+{
+	opacity:1;	
+}
+.container
+{
+	width:800px;
+	margin:0px auto;
+	text-align:left;
+	padding:15px;
+	background-color:#000;
+	text-align:center;
+}

@@ -1,0 +1,199 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="msapplication-tap-highlight" content="no"> <!-- Disable highlighting when tapping -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+	
+	<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+	<title>Zoe Appleseed</title>
+<link rel="stylesheet" href="css/blueimp-gallery.css">
+<link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:100' rel='stylesheet' type='text/css'>
+<style>
+* {
+	font-family: 'Roboto Slab', serif;
+}
+body{
+	background-color: #EEE; 
+	display:none;
+	margin:0;
+	padding: 0;
+}
+#heading{
+	position: relative;
+	color:black;
+	top:0;
+	right:0;
+	margin: 0;
+	padding: 0;
+	font-size: 4.2em;
+	font-weight: 100;
+	text-align: right;
+}
+#sidebar{
+	position: absolute;
+	top:0;
+	left:0;
+}
+.top-vertical{
+	position: absolute;
+	top:0;
+	left:1em;
+	width:8%;
+	height:100%;
+	overflow:hidden;
+}
+.top-vertical .icon{
+	width:100%;
+}
+.icon:hover{
+	opacity: 0.7;
+}
+.top-vertical #mail{
+	width:80%;
+	margin-top: 12%;
+	margin-left:10%;
+}
+.top-horizontal #mail{
+  position:relative;
+  top:-3px;
+}
+.top-horizontal .icon{
+  width:40px;
+}
+#bio{
+	font-size: 1.4em;
+}
+.right{
+	position: absolute;
+	top:5.75em;
+	right:1%;
+	width:20%;
+	color:black;
+	margin-left: 1em;
+}
+.under{
+	position: relative;
+	text-align: center;
+}
+
+#carousel-container {
+	position: relative;
+	max-width:100%;
+  margin: 0 auto;
+  font-family: font-family: 'Roboto Slab', serif;
+  font-size: 1em;
+  line-height: 1.4em;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+#blueimp-image-carousel{
+	background-color: white;
+	color: #000;
+}
+.blueimp-gallery > .close, .blueimp-gallery > .title{
+	color:black;
+	text-shadow: none;
+}
+.blueimp-gallery > .close, .blueimp-gallery > .title:hover{
+	color:black;
+	text-shadow: none;
+}
+#footer{
+	width:100%;
+	position: absolute;
+	line-height: 1em;
+	margin-top: 4em;
+	bottom:0;
+	text-align: center;
+}
+a img{
+	border: none;
+}
+#bio img {
+	margin-top: 15%;
+	width:80%;
+	-moz-box-shadow:    0px 0px 4px 2px #999;
+	-webkit-box-shadow: 0px 0px 4px 2px #999;
+	box-shadow:         0px 0px 4px 2px #999;
+}
+</style>
+
+</head>
+<body>
+<h1 id='heading'>zoe appleseed</h1>
+<div id="sidebar" class='top-vertical'>
+	<a href="http://twitter.com/zoeappleseed"><img class="icon" src="img/twitter_fushia.png"></a>
+	<a href="http://zoeappleseed.tumblr.com/"><img class="icon" src="img/tumblr_fushia.png"></a>
+	<a href="mailto:zoe@zoeappleseed.com" target="_top"><img id="mail" class="icon" src="img/mail_fushia.png"/></a>
+</div>
+<br>
+<div id="carousel-container">
+	<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+	<div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-controls">
+	    <div class="slides"></div>
+	    <h3 class="title"></h3>
+	    <a class="prev">‹</a>
+	    <a class="next">›</a>
+	    <a class="play-pause"></a>
+	</div>
+</div>
+<div id="bio" class='right'><img src='img/profile.jpg'></img></div>
+<div id="footer">
+	<p id="copyright">&#169; Zoe Calton 2013-<date>2014</date> All Rights Reserved.<p>
+	<p>Web Design by <a href="http://canyonthings.com">CanyonThings</a><p>
+<div>
+<br>
+<script type="text/javascript" src="http://zoeappleseed.tumblr.com/api/read/json?tagged=seed"></script>
+<script src="jquery.js"></script>
+<script src="js/blueimp-gallery.js"></script>
+<script>
+</script>
+<script src="js/jquery.blueimp-gallery.js"></script>
+<script src="js/tumblr_load.js"></script>
+<script>
+	$('date').html(new Date().getFullYear());
+</script>
+<script>
+$(window).on('resize',resize = function(){
+	//position the bio under the gallery if there is room e.g. phones
+	if($(window).height()<430){
+		$('#footer').hide();
+	} else {
+		$('#footer').show();
+	}
+	if($(window).width()<550){
+
+		$('#bio').hide()
+	} else {
+		$('#bio').show()
+		$('#carousel-container').css({
+			maxWidth:'50%'
+		});
+	}
+	if($(window).width()<550 || $(window).height() < 430){
+		$('#heading').css({
+			fontSize:'1.5em', 
+		});
+		$('#sidebar').addClass('top-horizontal').removeClass('top-vertical');
+	} else {
+		$('#heading').css({
+			fontSize:'4.2em',
+			position:'relative'
+		});
+		$('#sidebar').removeClass('top-horizontal').addClass('top-vertical');
+	}
+	$('body').show();
+})
+resize();
+</script>
+</body> 
+</html>

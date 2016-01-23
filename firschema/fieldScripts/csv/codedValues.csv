@@ -1,0 +1,1658 @@
+actualconduitsize,16,16
+actualconduitsize,20,20
+actualconduitsize,25,25
+actualconduitsize,32,32
+actualconduitsize,40,40
+actualconduitsize,50,50
+actualconduitsize,63,63
+actualconduitsize,80,80
+actualconduitsize,90,90
+actualconduitsize,100,100
+actualconduitsize,110,110
+actualconduitsize,120,120
+actualconduitsize,150,150
+actualconduittype,A,Asbestos
+actualconduittype,BI,Black Iron
+actualconduittype,C,Concrete
+actualconduittype,CI,Cast Iron
+actualconduittype,E,Earthenware
+actualconduittype,GI,Galvanised Iron
+actualconduittype,G,Garnite
+actualconduittype,P,Plastic
+actualconduittype,X,Other
+aerialroutescopestate,127,Not Required
+aerialroutescopestate,126,Not Required - Lead In
+aerialroutescopestate,0,Not Inspected
+aerialroutescopestate,1,Required and Fit for NBN Aerial Cables
+allocatesubduct,127,Not determined
+allocatesubduct,0,Not subducted
+allocatesubduct,1,1
+allocatesubduct,2,2
+allocatesubduct,3,3
+allocatesubduct,4,4
+allocatesubduct,5,5
+allocatesubduct,6,6
+allocatesubduct,7,7
+allocatesubduct,8,8
+allocatesubduct,9,9
+allocatesubduct,10,10
+allocatesubduct,11,11
+allocatesubduct,12,12
+allocatesubduct,13,13
+allocatesubduct,14,14
+allocatesubduct,15,15
+allocatesubduct,16,16
+allocatesubduct,17,17
+allocatesubduct,18,18
+allocatesubduct,19,19
+allocatesubduct,20,20
+az,A,A
+az,B,B
+az,C,C
+az,D,D
+az,E,E
+az,F,F
+az,G,G
+az,H,H
+az,I,I
+az,J,J
+az,K,K
+az,L,L
+az,M,M
+az,N,N
+az,O,O
+az,P,P
+az,Q,Q
+az,R,R
+az,S,S
+az,T,T
+az,U,U
+az,V,V
+az,W,W
+az,X,X
+az,Y,Y
+az,Z,Z
+blocksurfacefir,127,Not determined
+blocksurfacefir,0,No Blockage
+blocksurfacefir,1,Grass
+blocksurfacefir,2,Paver
+blocksurfacefir,3,Gravel
+blocksurfacefir,4,Bitumen roadway
+blocksurfacefir,5,Bitumen footpath
+blocksurfacefir,6,Concrete footpath
+blocksurfacefir,7,concrete driveway
+blocksurfacefir,8,Other (comment mandatory)
+buildcondition,127,Not determined
+buildcondition,1,Rock
+buildcondition,2,OTR
+buildcondition,3,Excavation & reinstatement by others
+buildlocation,127,Not determined
+buildlocation,1,New Location
+buildlocation,2,Over Existing Infrastructure
+cableplacementtype,127,Not determined
+cableplacementtype,1,Underground
+cableplacementtype,2,Aerial
+cabletype,127,Not determined
+cabletype,0,ADSS
+cabletype,1,Figure 8
+cabletype,2,Tether
+cablevariant,127,Not determined
+cablevariant,1,TSS_ CORNING_48_HD 
+cablevariant,2,TSS_CORNING_72_FIG8 
+cablevariant,3,TSS_CORNING_72_HD 
+cablevariant,4,TSS_CORNING_144_FIG8 
+cablevariant,5,TSS_ CORNING_144_HD 
+cablevariant,6,TSS_CORNING_144_NJ 
+cablevariant,7,TSS_CORNING_216_NJ 
+cablevariant,8,TSS_CORNING_288_RIBBON 
+cablevariant,9,TSS_CORNING_432_RIBBON 
+cablevariant,10,TSS_CORNING_576_RIBBON 
+cablevariant,11,TSS_ PRYS_144_HD 
+cablevariant,12,TSS_ PRYS_144_RR_HD 
+cablevariant,13,TSS_CORNING_12NJ
+cablevariant,14,TSS_PRYS_288_RIBBON
+cablevariant,15,TSS_PRYS_288_RIBBON_RR
+cablevariant,16,TSS_PRYS_432_RIBBON
+cablevariant,17,TSS_PRYS_432_RIBBON_RR
+cablevariant,18,TSS_PRYS_48_HD
+cablevariant,19,TSS_PRYS_48_RR_HD
+cablevariant,20,TSS_PRYS_576_RIBBON
+cablevariant,21,TSS_PRYS_576_RIBBON_RR
+cablevariant,22,TSS_PRYS_72_HD
+cablevariant,23,TSS_PRYS_72_RR_HD
+cablevariant,24,TSS_PRYS_864_RIBBON
+cablevariant,25,TSS_PRYS_864_RIBBON_RR
+cablevariant,26,TSS_CORNING_72_NJ
+conduitowner,127,Not determined
+conduitowner,0,Telstra
+conduitowner,1,NBN
+conduitowner,2,Other (comment mandatory)
+constructionmethod,127,Not determined
+constructionmethod,0,Directional Bore in Rock
+constructionmethod,1,Directional Bore in OTR
+constructionmethod,2,NBN Trench in Rock
+constructionmethod,3,NBN Trench in OTR
+constructionmethod,4,Third Party Trench
+corridortype,127,Not determined
+corridortype,0,Power Corridor
+corridortype,1,Communications corridor
+ductfirstandardcomments,127,Non standard comment recorded in next field
+ductfirstandardcomments,1,Duct OK
+ductfirstandardcomments,2,Duct damaged
+ductfirstandardcomments,3,Duct blocked
+ductfirstandardcomments,4,"Duct congested, insufficient capacity"
+ductfirstandardcomments,5,Does not exist
+ductfirstandardcomments,6,Trench
+ductfirstandardcomments,7,Bore
+ductfirstandardcomments,8,Grundie
+ductfirstandardcomments,9,Duct not located
+ductfirstandardcomments,10,Use alternative duct
+ductfirstandardcomments,11,Augmentation required
+fibrecount,127,Not determined
+fibrecount,1,1F
+fibrecount,12,12F
+fibrecount,72,72F
+fibrecount,144,144F
+fibrecount,288,288F
+fibrecount,312,312F
+fibrecount,432,432F
+fibrecount,576,576F
+fibrecount,864,864F
+fibrenodetype,127,Not determined
+fibrenodetype,0,DCM
+fibrenodetype,1,ODF
+fibrenodetype,2,TJL
+fibrenodetype,3,DJL
+fibrenodetype,4,LJL
+fibrenodetype,5,AJL
+fibrenodetype,6,MPT
+fibrenodetype,7,NAP
+fibrenodetype,8,ADC
+fibrenodevariant,127,Not determined
+fibrenodevariant,1,CORNING_MPT_4PORT
+fibrenodevariant,2,CORNING_MPT_4PORT_3M
+fibrenodevariant,3,CORNING_MPT_6PORT
+fibrenodevariant,4,CORNING_MPT_8PORT
+fibrenodevariant,5,CORNING_MPT_8PORT_3M
+fibrenodevariant,6,CORNING_MPT_12PORT
+fibrenodevariant,7,CORNING_MPT_12PORT_3M
+fibrenodevariant,8,CORNING_MPT_B4PORT
+fibrenodevariant,9,CORNING_MPT_S4PORT
+fibrenodevariant,10,CORNING_MPT_S6PORT
+fibrenodevariant,11,TYCO_MPT_4PORT
+fibrenodevariant,12,TYCO_MPT_8PORT
+fibrenodevariant,13,TYCO_MPT_12PORT
+fibrenodevariant,14,ADC_MST
+fibrenodevariant,15,ADC_RCD
+fibrenodevariant,16,CORNING_12NAP
+fibrenodevariant,17,CORNING_24NAP
+fibrenodevariant,18,CORNING_288-ORS-MB
+fibrenodevariant,19,CORNING_ST_12SLOT
+fibrenodevariant,20,CORNING_ST_48SLOT
+fibrenodevariant,21,CORNING_ZT_12SLOT
+fibrenodevariant,22,CORNING_ZT_24SLOT
+fibrenodevariant,23,CORNING_ZT_36SLOT
+fibrenodevariant,24,CORNING_ZT_48SLOT
+fibrenodevariant,25,CORNING_ZT_60SLOT
+fibrenodevariant,26,CORNING_ZT_72SLOT
+fibrenodevariant,27,CORNING_ZT_84SLOT
+fibrenodevariant,28,CORNING_ZT_96SLOT
+fibrenodevariant,29,CORNING_ZT_144SLOT
+fibrenodevariant,30,L_CORNING_864-ORS-HB
+fibrenodevariant,31,L_TYCO_FIST-GCO2-BC-R12
+fibrenodevariant,32,L_TYCO_FIST-GCO2-BD-R12
+fibrenodevariant,33,L_TYCO_FIST-GCO2-BE-R12
+fibrenodevariant,34,D_CORNING_864-ORS-HB
+fibrenodevariant,35,D_TYCO_432-HB
+fibrenodevariant,36,D_TYCO_576-HB
+fibrenodevariant,37,D_TYCO_FIST-GCO2-BC-R12
+fibrenodevariant,38,D_TYCO_FIST-GCO2-BD-R12
+fibrenodevariant,39,D_TYCO_FIST-GCO2-BE-R12
+fibrenodevariant,40,T_CORNING_864-ORS-HB
+fibrenodevariant,41,T_TYCO_144-HB
+fibrenodevariant,42,T_TYCO_432-HB
+fibrenodevariant,43,T_TYCO_576-HB
+fibrenodevariant,44,T_TYCO_FIST-GCO2-BC-R12
+fibrenodevariant,45,T_TYCO_FIST-GCO2-BD-R12
+fibrenodevariant,46,T_TYCO_FIST-GCO2-BE-R12
+fibrenodevariant,47,Corning 432 FDH
+fibrenodevariant,48,Corning 576 FDH
+fibrenodevariant,49,Corning 864 FDH
+fibrenodevariant,50,FDH Gen3e
+fibrenodevariant,51,FDH
+jointype,127,Not determined
+jointype,1,Ribbon Simplex
+jointype,2,Loose Tube Simplex
+jointype,3,Ribbon Complex
+jointype,4,Loose Tube Complex
+loadsource,127,Not determined
+newconduitsize,50,50
+newconduitsize,100,100
+newpitscopestate,0,Specification Incomplete
+newpitscopestate,1,Specification Complete
+newpitsize,10,P1 Plastic 508L x 218W x 400D mm?
+newpitsize,20,P2 Plastic 655L x 290W x 575D mm?
+newpitsize,30,P3 Plastic 780L x 355W x 635D mm?
+newpitsize,40,P4 Plastic 700L x 390W x 820D mm?
+newpitsize,50,P5 Plastic 710L x 455W x 635D mm?
+newpitsize,60,P6 Plastic 1370L x 550W x 680D mm?
+newpitsize,80,P8 Plastic 1380L x 565W x 890D mm?
+newpitsize,90,P9 Plastic 2040L x 550W x 900D mm?
+newpitsize,104,PF4 Manhole or equivalent 2600L x 1245W x 1490D mm?
+newpitsize,112,PF12 MHole or equivalent  2900L x 1380W x 1750D mm?
+newugroutescopestate,127,Not Required
+newugroutescopestate,0,Specification Incomplete
+newugroutescopestate,1,Specification Complete
+oldconduitscopestate,127,Not Required - Other
+oldconduitscopestate,126,Not Required - Lead In
+oldconduitscopestate,0,Not Inspected
+oldconduitscopestate,2,Not Req. - Alt. Duct selected - Design Altered
+oldconduitscopestate,3,Remediation Required - please fill in FR fields
+oldconduitscopestate,6,Not Located
+oldconduitscopestate,4,Visual Inspection OK - Duct Ready for Rod and Rope
+oldconduitscopestate,5,Fit - R&R Complete
+oldpitscopestate,127,Not Required
+oldpitscopestate,0,Not Inspected
+oldpitscopestate,5,Upgrade pit to P5
+oldpitscopestate,6,Upgrade pit to P6
+oldpitscopestate,8,Upgrade pit to P8
+oldpitscopestate,9,Upgrade pit to P9
+oldpitscopestate,10,Replace like-for-like
+oldpitscopestate,11,Replace lids
+oldpitscopestate,12,Raise Pit - Buried
+oldpitscopestate,13,Raise Pit - Other
+oldpitscopestate,14,Lower pit
+oldpitscopestate,15,Replace collar
+oldpitscopestate,16,Raise pit and replace lids
+oldpitscopestate,17,Lower pit and replace lids
+oldpitscopestate,18,Replace collar & replace lids
+oldpitscopestate,19,Raise pit and replace collar
+oldpitscopestate,20,Lower pit and replace collar
+oldpitscopestate,21,Other - Remediate OHS Risk (Comment required)
+oldpitscopestate,22,Other - Permanently flooded
+oldpitscopestate,23,Other - Remove Debris
+oldpitscopestate,24,Other - Unable to Locate
+oldpitscopestate,25,Other - Unable to withstand traffic
+oldpitscopestate,26,Other (comment mandatory)
+oldpitscopestate,27,Oth - AD - Located Not Accessible - Priv. Property
+oldpitscopestate,28,Other - AD - Located Not Accessible - Driveway
+oldpitscopestate,29,"Oth - AD - Cannot haul, Alt. chosen. Pls Comment."
+oldpitscopestate,30,"Other - AD - VSL not near, Alt. pit to hold joint."
+oldpitscopestate,31,Fit - Buried no need to raise pit
+oldpitscopestate,32,Fit - Not Buried
+pitclean,0,Not Inspected
+pitclean,1,Inspected - Does not need clean
+pitclean,2,Inspected - Needs Clean
+pitclean,3,Pit Cleaned
+pitfirstandardcomments,127,Non standard comment recorded in next field
+pitfirstandardcomments,1,Pit OK
+pitfirstandardcomments,2,Pit damaged
+pitfirstandardcomments,3,Space for TJL
+pitfirstandardcomments,4,No space for TJL
+pitfirstandardcomments,5,Lid damaged
+pitfirstandardcomments,6,Lid missing
+pitfirstandardcomments,7,Pit not located
+pitfirstandardcomments,8,Pit congested
+pitfirstandardcomments,10,Upgrade to 5 pit
+pitfirstandardcomments,11,Upgrade to 6 pit
+pitfirstandardcomments,12,Upgrade to 8 pit
+pitfirstandardcomments,13,Upgrade to 9 pit
+pitfirstandardcomments,14,Does not exist
+pitfirstandardcomments,15,Blocked by roots
+pitfirstandardcomments,16,Blocked by rubble
+pitfirstandardcomments,17,Crossbar missing/damaged
+pitfirstandardcomments,18,Flooded
+pitfirstandardcomments,19,Damaged
+pitfirstandardcomments,20,Steel lid required
+pitname,127,Not determined
+pitname,53,J5
+pitname,52,H5
+pitname,51,P5
+pitname,23,J2
+pitname,22,H2
+pitname,21,P2
+pitname,20,2
+pitname,33,J3
+pitname,32,H3
+pitname,31,P3
+pitname,30,3
+pitname,43,J4
+pitname,42,H4
+pitname,41,P4
+pitname,40,4
+pitname,60,6
+pitname,64,C6
+pitname,161,MH - Footway
+pitname,162,MH - Roadway
+pitname,120,C
+pitname,110,B
+pitname,13,J1
+pitname,12,H1
+pitname,11,P1
+pitname,10,1
+pitname,83,J8
+pitname,82,H8
+pitname,81,P8
+pitname,80,8
+pitname,84,C8
+pitname,130,D
+pitname,70,7
+pitname,100,A
+pitname,93,J9
+pitname,92,H9
+pitname,91,P9
+pitname,94,C9
+pitname,0,0
+pitname,170,X - Other
+pitname,131,Vic D
+pitpump,0,Not Inspected
+pitpump,1,Inspected - Does not need pump out
+pitpump,2,Inspected - Needs pump out
+pitpump,3,Pit Pumped Out
+poleowner,127,Not determined
+poleOwner,1,"Not in list, please record owner in field below."
+poleOwner,2,Western Power
+poleOwner,3,Horizon Power
+poleOwner,4,Aurora Energy
+poleOwner,5,Ausgrid
+poleOwner,6,Endeavour Energy
+poleOwner,7,Energex
+poleOwner,8,Ergon Energy
+poleOwner,9,Essential Energy
+poleOwner,10,Jemena
+poleOwner,11,Powercor Australia
+poleOwner,12,SA Power Networks
+poleOwner,13,Telstra
+poleOwner,14,Optus
+poleOwner,15,Private Pole
+polescopestate,127,Not Required
+polescopestate,0,Not Inspected
+polescopestate,1,Inspection Complete
+polemat,127,Not determined
+polemat,0,Timber
+polemat,1,Concrete
+polemat,2,Steel
+polemat,3,Stobie
+polemat,4,Other (Please Comment)
+sheathtype,127,Not determined
+sheathtype,0,PDS
+sheathtype,1,SDS
+sheathtype,2,MSS
+sheathtype,3,LSS
+sheathtype,4,HSL
+sheathtype,5,HSD
+sheathtype,6,DSS
+sheathtype,7,TSS
+standardmandrels,0,Mandrel Not Yet Hauled
+standardmandrels,10,10 mm approx Rod Diameter
+standardmandrels,12,12 mm
+standardmandrels,18,18 mm
+standardmandrels,22,22 mm
+standardmandrels,28,28 mm
+standardmandrels,32,32 mm
+standardmandrels,36,36 mm
+standardmandrels,40,40 mm
+standardmandrels,48,48 mm
+standardmandrels,60,60 mm
+standardmandrels,80,80 mm
+standardmandrels,120,120 mm
+subduct,0,Not subduct
+subduct,1,1
+subduct,2,2
+subduct,3,3
+subduct,4,4
+subduct,5,5
+subduct,6,6
+subduct,7,7
+subduct,8,8
+subduct,9,9
+subduct,10,10
+subduct,11,11
+subduct,12,12
+subduct,13,13
+subduct,14,14
+subduct,15,15
+subduct,16,16
+subduct,17,17
+subduct,18,18
+subduct,19,19
+subduct,20,20
+yesno,N,No
+yesno,Y,Yes
+loadsource,1,NDDv1
+loadsource,2,NDDv2
+loadsource,3,NDDv3
+loadsource,80,Scope
+loadsource,90,Test
+bori,0,0.0 m?
+bori,2,0.2 m?
+bori,4,0.4 m?
+bori,6,0.6 m?
+bori,8,0.8 m?
+bori,10,1.0 m?
+bori,12,1.2 m?
+bori,14,1.4 m?
+bori,16,1.6 m?
+bori,18,1.8 m?
+bori,20,2.0 m?
+bori,22,2.2 m?
+bori,24,2.4 m?
+bori,26,2.6 m?
+bori,28,2.8 m?
+bori,30,3.0 m?
+bori,32,3.2 m?
+bori,34,3.4 m?
+bori,36,3.6 m?
+bori,38,3.8 m?
+bori,40,4.0 m?
+bori,42,4.2 m?
+bori,44,4.4 m?
+bori,46,4.6 m?
+bori,48,4.8 m?
+bori,50,5.0 m?
+bori,52,5.2 m?
+bori,54,5.4 m?
+bori,56,5.6 m?
+bori,58,5.8 m?
+bori,60,6.0 m?
+bori,62,6.2 m?
+bori,64,6.4 m?
+bori,66,6.6 m?
+bori,68,6.8 m?
+bori,70,7.0 m?
+bori,72,7.2 m?
+bori,74,7.4 m?
+bori,76,7.6 m?
+bori,78,7.8 m?
+bori,80,8.0 m?
+bori,82,8.2 m?
+bori,84,8.4 m?
+bori,86,8.6 m?
+bori,88,8.8 m?
+bori,90,9.0 m?
+bori,92,9.2 m?
+bori,94,9.4 m?
+bori,96,9.6 m?
+bori,98,9.8 m?
+bori,100,10.0 m?
+transitPitMaxCap,127,Not determined
+transitPitMaxCap,254,Pit/MH Effectively Empty
+transitPitMaxCap,3,3x TJL
+transitPitMaxCap,2,2x TJL
+transitPitMaxCap,1,1x TJL
+transitPitMaxCap,253,Space for other combination.  Comment & Photo Req.
+transitPitMaxCap,0,No Space Available
+corebore,0,0
+corebore,1,1
+corebore,2,2
+corebore,3,3
+corebore,4,4
+corebore,5,5
+corebore,6,6
+corebore,7,7
+corebore,8,8
+corebore,9,9
+corebore,10,10
+corebore,11,11
+corebore,12,12
+corebore,13,13
+corebore,14,14
+corebore,15,15
+corebore,16,16
+corebore,17,17
+corebore,18,18
+corebore,19,19
+corebore,20,20
+validSOR,127,Non standard provisional sum recorded in next field
+validSOR,09-01-01-01,Labourer
+validSOR,09-01-01-02,Labourer overtime Ð out of hours rate
+validSOR,09-01-01-03,Plant Operator
+validSOR,09-01-01-04,Plant Operator overtime Ð out of hours rate
+validSOR,09-01-01-05,Telecommunications Technician fully equipped including vehicle
+validSOR,09-01-01-06,Extra over for Telecommunications Technician fully equipped overtime including vehicle Ð out of hours rate
+validSOR,09-01-01-07,Advanced Telecommunications Technician fully equipped including vehicle
+validSOR,09-01-01-08,Advanced Telecommunications Technician fully equipped overtime including vehicle Ð out of hours rate
+validSOR,09-01-02-01,Provision of float charges for the movement of large plant and equipment between work sites
+validSOR,09-01-03-01,EWP truck mounted up to 12m with operator
+validSOR,09-01-04-01,Bobcat with 4-in-1 bucket
+validSOR,09-01-05-01,"Backhoe, JCB3CX or equivalent"
+validSOR,09-01-06-01,Excavators up to 10 tonnes
+validSOR,09-01-06-02,Excavators 10 to 15 tonnes
+validSOR,09-01-06-03,Excavators up to 10 tonnes fitted with rock breaker
+validSOR,09-01-07-01,Single-axle tipper truck 5 tonne load
+validSOR,09-01-07-02,Double-axle tipper truck 9 tonne load
+validSOR,09-01-08-01,Dozer (306 - 400 kw)
+validSOR,10-01-01-01,Local Authority Charges
+validSOR,10-01-01-02,Telecommunication Utility Charges
+validSOR,10-01-01-03,Power Make Ready Construction Activities Design
+validSOR,10-01-01-04,Power Make Ready Construction Activities Construction
+validSOR,10-01-01-05,Toxic Waste Material Removal
+validSOR,10-01-01-06,Traffic Control Works
+validSOR,10-01-01-07,Exceptional Environmental and Heritage assessments / studies or approvals
+validSOR,10-01-01-08,Geotechnical Investigations or Testing
+validSOR,10-01-01-09,Registered Surveyor Works
+validSOR,10-01-01-10,Other Third Party Mandatory Requirements
+validSOR,09-01-01-09,Electrical Linesworker fully equipped including vehicle
+validSOR,09-01-01-10,Electrical Linesworker fully equipped overtime including vehicle Ð out of hours rate
+validSOR,09-01-01-11,Level 3 Accredited Electrical Designer - Office Based
+validSOR,09-01-01-12,Telecommunications Designer - Office Based
+validSOR,09-01-01-01,Labourer
+validSOR,09-01-01-02,Labourer overtime Ð out of hours rate
+validSOR,09-01-01-03,Plant Operator
+validSOR,09-01-01-04,Plant Operator overtime Ð out of hours rate
+validSOR,09-01-01-05,Telecommunications Technician fully equipped including vehicle
+validSOR,09-01-01-06,Extra over for Telecommunications Technician fully equipped overtime including vehicle Ð out of hours rate
+validSOR,09-01-01-07,Advanced Telecommunications Technician fully equipped including vehicle
+validSOR,09-01-01-08,Advanced Telecommunications Technician fully equipped overtime including vehicle Ð out of hours rate
+validSOR,09-01-02-01,Provision of float charges for the movement of large plant and equipment between work sites
+validSOR,09-01-03-01,EWP truck mounted up to 12m with operator
+validSOR,09-01-04-01,Bobcat with 4-in-1 bucket
+validSOR,09-01-05-01,"Backhoe, JCB3CX or equivalent"
+validSOR,09-01-06-01,Excavators up to 10 tonnes
+validSOR,09-01-06-02,Excavators 10 to 15 tonnes
+validSOR,09-01-06-03,Excavators up to 10 tonnes fitted with rock breaker
+validSOR,09-01-07-01,Single-axle tipper truck 5 tonne load
+validSOR,09-01-07-02,Double-axle tipper truck 9 tonne load
+validSOR,09-01-08-01,Dozer (306 - 400 kw)
+validSOR,10-01-01-01,Local Authority Charges
+validSOR,10-01-01-02,Telecommunication Utility Charges
+validSOR,10-01-01-03,Power Make Ready Construction Activities Design
+validSOR,10-01-01-04,Power Make Ready Construction Activities Construction
+validSOR,10-01-01-05,Toxic Waste Material Removal
+validSOR,10-01-01-06,Traffic Control Works
+validSOR,10-01-01-07,Exceptional Environmental and Heritage assessments / studies or approvals
+validSOR,10-01-01-08,Geotechnical Investigations or Testing
+validSOR,10-01-01-09,Registered Surveyor Works
+validSOR,10-01-01-10,Other Third Party Mandatory Requirements
+validSOR,09-01-01-09,Electrical Linesworker fully equipped including vehicle
+validSOR,09-01-01-10,Electrical Linesworker fully equipped overtime including vehicle Ð out of hours rate
+validSOR,09-01-01-11,Level 3 Accredited Electrical Designer - Office Based
+validSOR,09-01-01-12,Telecommunications Designer - Office Based
+sitename,Not determined,Not determined
+sitename,3CBR-3MLN,3CBR-3MLN
+sitename,5ABD-5SAI,5ABD-5SAI
+sitename,5ABD-5TWO,5ABD-5TWO
+sitename,5ONK-5SFD,5ONK-5SFD
+sitename,5SAL-5EZB,5SAL-5EZB
+sitename,5SFD-5ONK,5SFD-5ONK
+sitename,6PNJ-6YND,6PNJ-6YND
+sitename,2BEG-2WLS,2BEG-2WLS
+sitename,2BKS-2BRK,2BKS-2BRK
+sitename,2BKS-2LMD,2BKS-2LMD
+sitename,2BUR-2SIL,2BUR-2SIL
+sitename,2CFS-2SAW,2CFS-2SAW
+sitename,2CFS-CHWF,2CFS-CHWF
+sitename,2CYS-2EAS,2CYS-2EAS
+sitename,2DAL-2CYS,2DAL-2CYS
+sitename,2DBB-DBBB,2DBB-DBBB
+sitename,2EAS-2RED,2EAS-2RED
+sitename,2ERP-2SYB,2ERP-2SYB
+sitename,2GBE-2ULT,2GBE-2ULT
+sitename,2HAR-HARR,2HAR-HARR
+sitename,2HOM-2BUR,2HOM-2BUR
+sitename,2KMS-FRED,2KMS-FRED
+sitename,2LID-2HOM,2LID-2HOM
+sitename,2MAC-MKWK,2MAC-MKWK
+sitename,2MUS-MUSW,2MUS-MUSW
+sitename,2NAB-DARK,2NAB-DARK
+sitename,2PTH-2ESP-2ROT,2PTH-2ESP-2ROT
+sitename,2PTM-FERC,2PTM-FERC
+sitename,2RCH-2RIV-PP,2RCH-2RIV-PP
+sitename,2RCH-2RIV-SP,2RCH-2RIV-SP
+sitename,2RCH-2WIN,2RCH-2WIN
+sitename,2RED-2GBE,2RED-2GBE
+sitename,2ROT-2SYB,2ROT-2SYB
+sitename,2SCO-SCON,2SCO-SCON
+sitename,2SIL-2LID,2SIL-2LID
+sitename,2SYA-2HOR-2WRO,2SYA-2HOR-2WRO
+sitename,2TEE-TINO,2TEE-TINO
+sitename,2TMZ-2TAM,2TMZ-2TAM
+sitename,2ULT-2DAL,2ULT-2DAL
+sitename,2URL-URAL,2URL-URAL
+sitename,2WLG-2SHH-PP,2WLG-2SHH-PP
+sitename,2WLS-2WLU,2WLS-2WLU
+sitename,4AAR-4BNA,4AAR-4BNA
+sitename,4ACO-4CPH,4ACO-4CPH
+sitename,4AIR-WDWD,4AIR-WDWD
+sitename,4ASH-4MGB,4ASH-4MGB
+sitename,4ASH-4NER,4ASH-4NER
+sitename,4AYR-AYRR,4AYR-AYRR
+sitename,4AYR-BRNN,4AYR-BRNN
+sitename,4BNB-4CHD-4APL,4BNB-4CHD-4APL
+sitename,4BNB-4NDG-4ABO-4CHD,4BNB-4NDG-4ABO-4CHD
+sitename,4BRA-4IPS,4BRA-4IPS
+sitename,4BRA-4MRB,4BRA-4MRB
+sitename,4BWE-BOWE,4BWE-BOWE
+sitename,4CLI-CLIF,4CLI-CLIF
+sitename,4CPH-4ACO,4CPH-4ACO
+sitename,4CTR-CHAR,4CTR-CHAR
+sitename,4DRR-4IAL,4DRR-4IAL
+sitename,4EME-EMRR,4EME-EMRR
+sitename,4FHL-4CHD,4FHL-4CHD
+sitename,4FOR-4WOB-4NWF,4FOR-4WOB-4NWF
+sitename,4FRV-4ROT,4FRV-4ROT
+sitename,4GDN-4DRR,4GDN-4DRR
+sitename,4GDN-4SGI,4GDN-4SGI
+sitename,4GUL-4TNS,4GUL-4TNS
+sitename,4IAL-4GDN,4IAL-4GDN
+sitename,4IPS-4BRA,4IPS-4BRA
+sitename,4MGB-4NER,4MGB-4NER
+sitename,4MKY-BAKE,4MKY-BAKE
+sitename,4MKY-MKYK,4MKY-MKYK
+sitename,4NEW-4TOB,4NEW-4TOB
+sitename,4PPN-PROP,4PPN-PROP
+sitename,4ROT-4FRV,4ROT-4FRV
+sitename,4ROT-PINL,4ROT-PINL
+sitename,4SAR-ALLI,4SAR-ALLI
+sitename,4SSB-4BNA,4SSB-4BNA
+sitename,4TOB-4NEW,4TOB-4NEW
+sitename,4TWZ-4TOB,4TWZ-4TOB
+sitename,4WRW-WARW,4WRW-WARW
+sitename,9CVI-9BLC-9SCU-9CRC,9CVI-9BLC-9SCU-9CRC
+sitename,9CVI-9DKI,9CVI-9DKI
+sitename,9CVI-9MNK,9CVI-9MNK
+sitename,9DKI-9MNK,9DKI-9MNK
+sitename,9MNK-9QBN,9MNK-9QBN
+sitename,9QBN-9MNK,9QBN-9MNK
+extranodetype,127,Not determined
+newugroutebori,0,0.0 m?
+newugroutebori,1,0.5 m?
+newugroutebori,2,1.0 m?
+newugroutebori,3,1.5 m?
+newugroutebori,4,2.0 m?
+newugroutebori,5,2.5 m?
+newugroutebori,6,3.0 m?
+newugroutebori,7,3.5 m?
+newugroutebori,8,4.0 m?
+newugroutebori,9,4.5 m?
+newugroutebori,10,5.0 m?
+newugroutebori,11,5.5 m?
+newugroutebori,12,6.0 m?
+newugroutebori,13,6.5 m?
+newugroutebori,14,7.0 m?
+newugroutebori,15,7.5 m?
+newugroutebori,16,8.0 m?
+newugroutebori,17,8.5 m?
+newugroutebori,18,9.0 m?
+newugroutebori,19,9.5 m?
+newugroutebori,20,10.0 m?
+newugroutebori,21,10.5 m?
+newugroutebori,22,11.0 m?
+newugroutebori,23,11.5 m?
+newugroutebori,24,12.0 m?
+newugroutebori,25,12.5 m?
+newugroutebori,26,13.0 m?
+newugroutebori,27,13.5 m?
+newugroutebori,28,14.0 m?
+newugroutebori,29,14.5 m?
+newugroutebori,30,15.0 m?
+newugroutebori,31,15.5 m?
+newugroutebori,32,16.0 m?
+newugroutebori,33,16.5 m?
+newugroutebori,34,17.0 m?
+newugroutebori,35,17.5 m?
+newugroutebori,36,18.0 m?
+newugroutebori,37,18.5 m?
+newugroutebori,38,19.0 m?
+newugroutebori,39,19.5 m?
+newugroutebori,40,20.0 m?
+newugroutebori,41,20.5 m?
+newugroutebori,42,21.0 m?
+newugroutebori,43,21.5 m?
+newugroutebori,44,22.0 m?
+newugroutebori,45,22.5 m?
+newugroutebori,46,23.0 m?
+newugroutebori,47,23.5 m?
+newugroutebori,48,24.0 m?
+newugroutebori,49,24.5 m?
+newugroutebori,50,25.0 m?
+newugroutebori,51,25.5 m?
+newugroutebori,52,26.0 m?
+newugroutebori,53,26.5 m?
+newugroutebori,54,27.0 m?
+newugroutebori,55,27.5 m?
+newugroutebori,56,28.0 m?
+newugroutebori,57,28.5 m?
+newugroutebori,58,29.0 m?
+newugroutebori,59,29.5 m?
+newugroutebori,60,30.0 m?
+newugroutebori,61,30.5 m?
+newugroutebori,62,31.0 m?
+newugroutebori,63,31.5 m?
+newugroutebori,64,32.0 m?
+newugroutebori,65,32.5 m?
+newugroutebori,66,33.0 m?
+newugroutebori,67,33.5 m?
+newugroutebori,68,34.0 m?
+newugroutebori,69,34.5 m?
+newugroutebori,70,35.0 m?
+newugroutebori,71,35.5 m?
+newugroutebori,72,36.0 m?
+newugroutebori,73,36.5 m?
+newugroutebori,74,37.0 m?
+newugroutebori,75,37.5 m?
+newugroutebori,76,38.0 m?
+newugroutebori,77,38.5 m?
+newugroutebori,78,39.0 m?
+newugroutebori,79,39.5 m?
+newugroutebori,80,40.0 m?
+newugroutebori,81,40.5 m?
+newugroutebori,82,41.0 m?
+newugroutebori,83,41.5 m?
+newugroutebori,84,42.0 m?
+newugroutebori,85,42.5 m?
+newugroutebori,86,43.0 m?
+newugroutebori,87,43.5 m?
+newugroutebori,88,44.0 m?
+newugroutebori,89,44.5 m?
+newugroutebori,90,45.0 m?
+newugroutebori,91,45.5 m?
+newugroutebori,92,46.0 m?
+newugroutebori,93,46.5 m?
+newugroutebori,94,47.0 m?
+newugroutebori,95,47.5 m?
+newugroutebori,96,48.0 m?
+newugroutebori,97,48.5 m?
+newugroutebori,98,49.0 m?
+newugroutebori,99,49.5 m?
+newugroutebori,100,50.0 m?
+newugroutebori,101,50.5 m?
+newugroutebori,102,51.0 m?
+newugroutebori,103,51.5 m?
+newugroutebori,104,52.0 m?
+newugroutebori,105,52.5 m?
+newugroutebori,106,53.0 m?
+newugroutebori,107,53.5 m?
+newugroutebori,108,54.0 m?
+newugroutebori,109,54.5 m?
+newugroutebori,110,55.0 m?
+newugroutebori,111,55.5 m?
+newugroutebori,112,56.0 m?
+newugroutebori,113,56.5 m?
+newugroutebori,114,57.0 m?
+newugroutebori,115,57.5 m?
+newugroutebori,116,58.0 m?
+newugroutebori,117,58.5 m?
+newugroutebori,118,59.0 m?
+newugroutebori,119,59.5 m?
+newugroutebori,120,60.0 m?
+newugroutebori,121,60.5 m?
+newugroutebori,122,61.0 m?
+newugroutebori,123,61.5 m?
+newugroutebori,124,62.0 m?
+newugroutebori,125,62.5 m?
+newugroutebori,126,63.0 m?
+newugroutebori,127,63.5 m?
+newugroutebori,128,64.0 m?
+newugroutebori,129,64.5 m?
+newugroutebori,130,65.0 m?
+newugroutebori,131,65.5 m?
+newugroutebori,132,66.0 m?
+newugroutebori,133,66.5 m?
+newugroutebori,134,67.0 m?
+newugroutebori,135,67.5 m?
+newugroutebori,136,68.0 m?
+newugroutebori,137,68.5 m?
+newugroutebori,138,69.0 m?
+newugroutebori,139,69.5 m?
+newugroutebori,140,70.0 m?
+newugroutebori,141,70.5 m?
+newugroutebori,142,71.0 m?
+newugroutebori,143,71.5 m?
+newugroutebori,144,72.0 m?
+newugroutebori,145,72.5 m?
+newugroutebori,146,73.0 m?
+newugroutebori,147,73.5 m?
+newugroutebori,148,74.0 m?
+newugroutebori,149,74.5 m?
+newugroutebori,150,75.0 m?
+newugroutebori,151,75.5 m?
+newugroutebori,152,76.0 m?
+newugroutebori,153,76.5 m?
+newugroutebori,154,77.0 m?
+newugroutebori,155,77.5 m?
+newugroutebori,156,78.0 m?
+newugroutebori,157,78.5 m?
+newugroutebori,158,79.0 m?
+newugroutebori,159,79.5 m?
+newugroutebori,160,80.0 m?
+newugroutebori,161,80.5 m?
+newugroutebori,162,81.0 m?
+newugroutebori,163,81.5 m?
+newugroutebori,164,82.0 m?
+newugroutebori,165,82.5 m?
+newugroutebori,166,83.0 m?
+newugroutebori,167,83.5 m?
+newugroutebori,168,84.0 m?
+newugroutebori,169,84.5 m?
+newugroutebori,170,85.0 m?
+newugroutebori,171,85.5 m?
+newugroutebori,172,86.0 m?
+newugroutebori,173,86.5 m?
+newugroutebori,174,87.0 m?
+newugroutebori,175,87.5 m?
+newugroutebori,176,88.0 m?
+newugroutebori,177,88.5 m?
+newugroutebori,178,89.0 m?
+newugroutebori,179,89.5 m?
+newugroutebori,180,90.0 m?
+newugroutebori,181,90.5 m?
+newugroutebori,182,91.0 m?
+newugroutebori,183,91.5 m?
+newugroutebori,184,92.0 m?
+newugroutebori,185,92.5 m?
+newugroutebori,186,93.0 m?
+newugroutebori,187,93.5 m?
+newugroutebori,188,94.0 m?
+newugroutebori,189,94.5 m?
+newugroutebori,190,95.0 m?
+newugroutebori,191,95.5 m?
+newugroutebori,192,96.0 m?
+newugroutebori,193,96.5 m?
+newugroutebori,194,97.0 m?
+newugroutebori,195,97.5 m?
+newugroutebori,196,98.0 m?
+newugroutebori,197,98.5 m?
+newugroutebori,198,99.0 m?
+newugroutebori,199,99.5 m?
+newugroutebori,200,100.0 m?
+newugroutebori,201,100.5 m?
+newugroutebori,202,101.0 m?
+newugroutebori,203,101.5 m?
+newugroutebori,204,102.0 m?
+newugroutebori,205,102.5 m?
+newugroutebori,206,103.0 m?
+newugroutebori,207,103.5 m?
+newugroutebori,208,104.0 m?
+newugroutebori,209,104.5 m?
+newugroutebori,210,105.0 m?
+newugroutebori,211,105.5 m?
+newugroutebori,212,106.0 m?
+newugroutebori,213,106.5 m?
+newugroutebori,214,107.0 m?
+newugroutebori,215,107.5 m?
+newugroutebori,216,108.0 m?
+newugroutebori,217,108.5 m?
+newugroutebori,218,109.0 m?
+newugroutebori,219,109.5 m?
+newugroutebori,220,110.0 m?
+newugroutebori,221,110.5 m?
+newugroutebori,222,111.0 m?
+newugroutebori,223,111.5 m?
+newugroutebori,224,112.0 m?
+newugroutebori,225,112.5 m?
+newugroutebori,226,113.0 m?
+newugroutebori,227,113.5 m?
+newugroutebori,228,114.0 m?
+newugroutebori,229,114.5 m?
+newugroutebori,230,115.0 m?
+newugroutebori,231,115.5 m?
+newugroutebori,232,116.0 m?
+newugroutebori,233,116.5 m?
+newugroutebori,234,117.0 m?
+newugroutebori,235,117.5 m?
+newugroutebori,236,118.0 m?
+newugroutebori,237,118.5 m?
+newugroutebori,238,119.0 m?
+newugroutebori,239,119.5 m?
+newugroutebori,240,120.0 m?
+newugroutebori,241,120.5 m?
+newugroutebori,242,121.0 m?
+newugroutebori,243,121.5 m?
+newugroutebori,244,122.0 m?
+newugroutebori,245,122.5 m?
+newugroutebori,246,123.0 m?
+newugroutebori,247,123.5 m?
+newugroutebori,248,124.0 m?
+newugroutebori,249,124.5 m?
+newugroutebori,250,125.0 m?
+newugroutebori,251,125.5 m?
+newugroutebori,252,126.0 m?
+newugroutebori,253,126.5 m?
+newugroutebori,254,127.0 m?
+newugroutebori,255,127.5 m?
+newugroutebori,256,128.0 m?
+newugroutebori,257,128.5 m?
+newugroutebori,258,129.0 m?
+newugroutebori,259,129.5 m?
+newugroutebori,260,130.0 m?
+newugroutebori,261,130.5 m?
+newugroutebori,262,131.0 m?
+newugroutebori,263,131.5 m?
+newugroutebori,264,132.0 m?
+newugroutebori,265,132.5 m?
+newugroutebori,266,133.0 m?
+newugroutebori,267,133.5 m?
+newugroutebori,268,134.0 m?
+newugroutebori,269,134.5 m?
+newugroutebori,270,135.0 m?
+newugroutebori,271,135.5 m?
+newugroutebori,272,136.0 m?
+newugroutebori,273,136.5 m?
+newugroutebori,274,137.0 m?
+newugroutebori,275,137.5 m?
+newugroutebori,276,138.0 m?
+newugroutebori,277,138.5 m?
+newugroutebori,278,139.0 m?
+newugroutebori,279,139.5 m?
+newugroutebori,280,140.0 m?
+newugroutebori,281,140.5 m?
+newugroutebori,282,141.0 m?
+newugroutebori,283,141.5 m?
+newugroutebori,284,142.0 m?
+newugroutebori,285,142.5 m?
+newugroutebori,286,143.0 m?
+newugroutebori,287,143.5 m?
+newugroutebori,288,144.0 m?
+newugroutebori,289,144.5 m?
+newugroutebori,290,145.0 m?
+newugroutebori,291,145.5 m?
+newugroutebori,292,146.0 m?
+newugroutebori,293,146.5 m?
+newugroutebori,294,147.0 m?
+newugroutebori,295,147.5 m?
+newugroutebori,296,148.0 m?
+newugroutebori,297,148.5 m?
+newugroutebori,298,149.0 m?
+newugroutebori,299,149.5 m?
+newugroutebori,300,150.0 m?
+newugroutebori,301,150.5 m?
+newugroutebori,302,151.0 m?
+newugroutebori,303,151.5 m?
+newugroutebori,304,152.0 m?
+newugroutebori,305,152.5 m?
+newugroutebori,306,153.0 m?
+newugroutebori,307,153.5 m?
+newugroutebori,308,154.0 m?
+newugroutebori,309,154.5 m?
+newugroutebori,310,155.0 m?
+newugroutebori,311,155.5 m?
+newugroutebori,312,156.0 m?
+newugroutebori,313,156.5 m?
+newugroutebori,314,157.0 m?
+newugroutebori,315,157.5 m?
+newugroutebori,316,158.0 m?
+newugroutebori,317,158.5 m?
+newugroutebori,318,159.0 m?
+newugroutebori,319,159.5 m?
+newugroutebori,320,160.0 m?
+newugroutebori,321,160.5 m?
+newugroutebori,322,161.0 m?
+newugroutebori,323,161.5 m?
+newugroutebori,324,162.0 m?
+newugroutebori,325,162.5 m?
+newugroutebori,326,163.0 m?
+newugroutebori,327,163.5 m?
+newugroutebori,328,164.0 m?
+newugroutebori,329,164.5 m?
+newugroutebori,330,165.0 m?
+newugroutebori,331,165.5 m?
+newugroutebori,332,166.0 m?
+newugroutebori,333,166.5 m?
+newugroutebori,334,167.0 m?
+newugroutebori,335,167.5 m?
+newugroutebori,336,168.0 m?
+newugroutebori,337,168.5 m?
+newugroutebori,338,169.0 m?
+newugroutebori,339,169.5 m?
+newugroutebori,340,170.0 m?
+newugroutebori,341,170.5 m?
+newugroutebori,342,171.0 m?
+newugroutebori,343,171.5 m?
+newugroutebori,344,172.0 m?
+newugroutebori,345,172.5 m?
+newugroutebori,346,173.0 m?
+newugroutebori,347,173.5 m?
+newugroutebori,348,174.0 m?
+newugroutebori,349,174.5 m?
+newugroutebori,350,175.0 m?
+newugroutebori,351,175.5 m?
+newugroutebori,352,176.0 m?
+newugroutebori,353,176.5 m?
+newugroutebori,354,177.0 m?
+newugroutebori,355,177.5 m?
+newugroutebori,356,178.0 m?
+newugroutebori,357,178.5 m?
+newugroutebori,358,179.0 m?
+newugroutebori,359,179.5 m?
+newugroutebori,360,180.0 m?
+newugroutebori,361,180.5 m?
+newugroutebori,362,181.0 m?
+newugroutebori,363,181.5 m?
+newugroutebori,364,182.0 m?
+newugroutebori,365,182.5 m?
+newugroutebori,366,183.0 m?
+newugroutebori,367,183.5 m?
+newugroutebori,368,184.0 m?
+newugroutebori,369,184.5 m?
+newugroutebori,370,185.0 m?
+newugroutebori,371,185.5 m?
+newugroutebori,372,186.0 m?
+newugroutebori,373,186.5 m?
+newugroutebori,374,187.0 m?
+newugroutebori,375,187.5 m?
+newugroutebori,376,188.0 m?
+newugroutebori,377,188.5 m?
+newugroutebori,378,189.0 m?
+newugroutebori,379,189.5 m?
+newugroutebori,380,190.0 m?
+newugroutebori,381,190.5 m?
+newugroutebori,382,191.0 m?
+newugroutebori,383,191.5 m?
+newugroutebori,384,192.0 m?
+newugroutebori,385,192.5 m?
+newugroutebori,386,193.0 m?
+newugroutebori,387,193.5 m?
+newugroutebori,388,194.0 m?
+newugroutebori,389,194.5 m?
+newugroutebori,390,195.0 m?
+newugroutebori,391,195.5 m?
+newugroutebori,392,196.0 m?
+newugroutebori,393,196.5 m?
+newugroutebori,394,197.0 m?
+newugroutebori,395,197.5 m?
+newugroutebori,396,198.0 m?
+newugroutebori,397,198.5 m?
+newugroutebori,398,199.0 m?
+newugroutebori,399,199.5 m?
+newugroutebori,400,200.0 m?
+newugroutebori,401,200.5 m?
+newugroutebori,402,201.0 m?
+newugroutebori,403,201.5 m?
+newugroutebori,404,202.0 m?
+newugroutebori,405,202.5 m?
+newugroutebori,406,203.0 m?
+newugroutebori,407,203.5 m?
+newugroutebori,408,204.0 m?
+newugroutebori,409,204.5 m?
+newugroutebori,410,205.0 m?
+newugroutebori,411,205.5 m?
+newugroutebori,412,206.0 m?
+newugroutebori,413,206.5 m?
+newugroutebori,414,207.0 m?
+newugroutebori,415,207.5 m?
+newugroutebori,416,208.0 m?
+newugroutebori,417,208.5 m?
+newugroutebori,418,209.0 m?
+newugroutebori,419,209.5 m?
+newugroutebori,420,210.0 m?
+newugroutebori,421,210.5 m?
+newugroutebori,422,211.0 m?
+newugroutebori,423,211.5 m?
+newugroutebori,424,212.0 m?
+newugroutebori,425,212.5 m?
+newugroutebori,426,213.0 m?
+newugroutebori,427,213.5 m?
+newugroutebori,428,214.0 m?
+newugroutebori,429,214.5 m?
+newugroutebori,430,215.0 m?
+newugroutebori,431,215.5 m?
+newugroutebori,432,216.0 m?
+newugroutebori,433,216.5 m?
+newugroutebori,434,217.0 m?
+newugroutebori,435,217.5 m?
+newugroutebori,436,218.0 m?
+newugroutebori,437,218.5 m?
+newugroutebori,438,219.0 m?
+newugroutebori,439,219.5 m?
+newugroutebori,440,220.0 m?
+newugroutebori,441,220.5 m?
+newugroutebori,442,221.0 m?
+newugroutebori,443,221.5 m?
+newugroutebori,444,222.0 m?
+newugroutebori,445,222.5 m?
+newugroutebori,446,223.0 m?
+newugroutebori,447,223.5 m?
+newugroutebori,448,224.0 m?
+newugroutebori,449,224.5 m?
+newugroutebori,450,225.0 m?
+newugroutebori,451,225.5 m?
+newugroutebori,452,226.0 m?
+newugroutebori,453,226.5 m?
+newugroutebori,454,227.0 m?
+newugroutebori,455,227.5 m?
+newugroutebori,456,228.0 m?
+newugroutebori,457,228.5 m?
+newugroutebori,458,229.0 m?
+newugroutebori,459,229.5 m?
+newugroutebori,460,230.0 m?
+newugroutebori,461,230.5 m?
+newugroutebori,462,231.0 m?
+newugroutebori,463,231.5 m?
+newugroutebori,464,232.0 m?
+newugroutebori,465,232.5 m?
+newugroutebori,466,233.0 m?
+newugroutebori,467,233.5 m?
+newugroutebori,468,234.0 m?
+newugroutebori,469,234.5 m?
+newugroutebori,470,235.0 m?
+newugroutebori,471,235.5 m?
+newugroutebori,472,236.0 m?
+newugroutebori,473,236.5 m?
+newugroutebori,474,237.0 m?
+newugroutebori,475,237.5 m?
+newugroutebori,476,238.0 m?
+newugroutebori,477,238.5 m?
+newugroutebori,478,239.0 m?
+newugroutebori,479,239.5 m?
+newugroutebori,480,240.0 m?
+newugroutebori,481,240.5 m?
+newugroutebori,482,241.0 m?
+newugroutebori,483,241.5 m?
+newugroutebori,484,242.0 m?
+newugroutebori,485,242.5 m?
+newugroutebori,486,243.0 m?
+newugroutebori,487,243.5 m?
+newugroutebori,488,244.0 m?
+newugroutebori,489,244.5 m?
+newugroutebori,490,245.0 m?
+newugroutebori,491,245.5 m?
+newugroutebori,492,246.0 m?
+newugroutebori,493,246.5 m?
+newugroutebori,494,247.0 m?
+newugroutebori,495,247.5 m?
+newugroutebori,496,248.0 m?
+newugroutebori,497,248.5 m?
+newugroutebori,498,249.0 m?
+newugroutebori,499,249.5 m?
+newugroutebori,500,250.0 m?
+newugroutebori,501,250.5 m?
+newugroutebori,502,251.0 m?
+newugroutebori,503,251.5 m?
+newugroutebori,504,252.0 m?
+newugroutebori,505,252.5 m?
+newugroutebori,506,253.0 m?
+newugroutebori,507,253.5 m?
+newugroutebori,508,254.0 m?
+newugroutebori,509,254.5 m?
+newugroutebori,510,255.0 m?
+newugroutebori,511,255.5 m?
+newugroutebori,512,256.0 m?
+newugroutebori,513,256.5 m?
+newugroutebori,514,257.0 m?
+newugroutebori,515,257.5 m?
+newugroutebori,516,258.0 m?
+newugroutebori,517,258.5 m?
+newugroutebori,518,259.0 m?
+newugroutebori,519,259.5 m?
+newugroutebori,520,260.0 m?
+newugroutebori,521,260.5 m?
+newugroutebori,522,261.0 m?
+newugroutebori,523,261.5 m?
+newugroutebori,524,262.0 m?
+newugroutebori,525,262.5 m?
+newugroutebori,526,263.0 m?
+newugroutebori,527,263.5 m?
+newugroutebori,528,264.0 m?
+newugroutebori,529,264.5 m?
+newugroutebori,530,265.0 m?
+newugroutebori,531,265.5 m?
+newugroutebori,532,266.0 m?
+newugroutebori,533,266.5 m?
+newugroutebori,534,267.0 m?
+newugroutebori,535,267.5 m?
+newugroutebori,536,268.0 m?
+newugroutebori,537,268.5 m?
+newugroutebori,538,269.0 m?
+newugroutebori,539,269.5 m?
+newugroutebori,540,270.0 m?
+newugroutebori,541,270.5 m?
+newugroutebori,542,271.0 m?
+newugroutebori,543,271.5 m?
+newugroutebori,544,272.0 m?
+newugroutebori,545,272.5 m?
+newugroutebori,546,273.0 m?
+newugroutebori,547,273.5 m?
+newugroutebori,548,274.0 m?
+newugroutebori,549,274.5 m?
+newugroutebori,550,275.0 m?
+newugroutebori,551,275.5 m?
+newugroutebori,552,276.0 m?
+newugroutebori,553,276.5 m?
+newugroutebori,554,277.0 m?
+newugroutebori,555,277.5 m?
+newugroutebori,556,278.0 m?
+newugroutebori,557,278.5 m?
+newugroutebori,558,279.0 m?
+newugroutebori,559,279.5 m?
+newugroutebori,560,280.0 m?
+newugroutebori,561,280.5 m?
+newugroutebori,562,281.0 m?
+newugroutebori,563,281.5 m?
+newugroutebori,564,282.0 m?
+newugroutebori,565,282.5 m?
+newugroutebori,566,283.0 m?
+newugroutebori,567,283.5 m?
+newugroutebori,568,284.0 m?
+newugroutebori,569,284.5 m?
+newugroutebori,570,285.0 m?
+newugroutebori,571,285.5 m?
+newugroutebori,572,286.0 m?
+newugroutebori,573,286.5 m?
+newugroutebori,574,287.0 m?
+newugroutebori,575,287.5 m?
+newugroutebori,576,288.0 m?
+newugroutebori,577,288.5 m?
+newugroutebori,578,289.0 m?
+newugroutebori,579,289.5 m?
+newugroutebori,580,290.0 m?
+newugroutebori,581,290.5 m?
+newugroutebori,582,291.0 m?
+newugroutebori,583,291.5 m?
+newugroutebori,584,292.0 m?
+newugroutebori,585,292.5 m?
+newugroutebori,586,293.0 m?
+newugroutebori,587,293.5 m?
+newugroutebori,588,294.0 m?
+newugroutebori,589,294.5 m?
+newugroutebori,590,295.0 m?
+newugroutebori,591,295.5 m?
+newugroutebori,592,296.0 m?
+newugroutebori,593,296.5 m?
+newugroutebori,594,297.0 m?
+newugroutebori,595,297.5 m?
+newugroutebori,596,298.0 m?
+newugroutebori,597,298.5 m?
+newugroutebori,598,299.0 m?
+newugroutebori,599,299.5 m?
+newugroutebori,600,300.0 m?
+newugroutebori,601,300.5 m?
+newugroutebori,602,301.0 m?
+newugroutebori,603,301.5 m?
+newugroutebori,604,302.0 m?
+newugroutebori,605,302.5 m?
+newugroutebori,606,303.0 m?
+newugroutebori,607,303.5 m?
+newugroutebori,608,304.0 m?
+newugroutebori,609,304.5 m?
+newugroutebori,610,305.0 m?
+newugroutebori,611,305.5 m?
+newugroutebori,612,306.0 m?
+newugroutebori,613,306.5 m?
+newugroutebori,614,307.0 m?
+newugroutebori,615,307.5 m?
+newugroutebori,616,308.0 m?
+newugroutebori,617,308.5 m?
+newugroutebori,618,309.0 m?
+newugroutebori,619,309.5 m?
+newugroutebori,620,310.0 m?
+newugroutebori,621,310.5 m?
+newugroutebori,622,311.0 m?
+newugroutebori,623,311.5 m?
+newugroutebori,624,312.0 m?
+newugroutebori,625,312.5 m?
+newugroutebori,626,313.0 m?
+newugroutebori,627,313.5 m?
+newugroutebori,628,314.0 m?
+newugroutebori,629,314.5 m?
+newugroutebori,630,315.0 m?
+newugroutebori,631,315.5 m?
+newugroutebori,632,316.0 m?
+newugroutebori,633,316.5 m?
+newugroutebori,634,317.0 m?
+newugroutebori,635,317.5 m?
+newugroutebori,636,318.0 m?
+newugroutebori,637,318.5 m?
+newugroutebori,638,319.0 m?
+newugroutebori,639,319.5 m?
+newugroutebori,640,320.0 m?
+newugroutebori,641,320.5 m?
+newugroutebori,642,321.0 m?
+newugroutebori,643,321.5 m?
+newugroutebori,644,322.0 m?
+newugroutebori,645,322.5 m?
+newugroutebori,646,323.0 m?
+newugroutebori,647,323.5 m?
+newugroutebori,648,324.0 m?
+newugroutebori,649,324.5 m?
+newugroutebori,650,325.0 m?
+newugroutebori,651,325.5 m?
+newugroutebori,652,326.0 m?
+newugroutebori,653,326.5 m?
+newugroutebori,654,327.0 m?
+newugroutebori,655,327.5 m?
+newugroutebori,656,328.0 m?
+newugroutebori,657,328.5 m?
+newugroutebori,658,329.0 m?
+newugroutebori,659,329.5 m?
+newugroutebori,660,330.0 m?
+newugroutebori,661,330.5 m?
+newugroutebori,662,331.0 m?
+newugroutebori,663,331.5 m?
+newugroutebori,664,332.0 m?
+newugroutebori,665,332.5 m?
+newugroutebori,666,333.0 m?
+newugroutebori,667,333.5 m?
+newugroutebori,668,334.0 m?
+newugroutebori,669,334.5 m?
+newugroutebori,670,335.0 m?
+newugroutebori,671,335.5 m?
+newugroutebori,672,336.0 m?
+newugroutebori,673,336.5 m?
+newugroutebori,674,337.0 m?
+newugroutebori,675,337.5 m?
+newugroutebori,676,338.0 m?
+newugroutebori,677,338.5 m?
+newugroutebori,678,339.0 m?
+newugroutebori,679,339.5 m?
+newugroutebori,680,340.0 m?
+newugroutebori,681,340.5 m?
+newugroutebori,682,341.0 m?
+newugroutebori,683,341.5 m?
+newugroutebori,684,342.0 m?
+newugroutebori,685,342.5 m?
+newugroutebori,686,343.0 m?
+newugroutebori,687,343.5 m?
+newugroutebori,688,344.0 m?
+newugroutebori,689,344.5 m?
+newugroutebori,690,345.0 m?
+newugroutebori,691,345.5 m?
+newugroutebori,692,346.0 m?
+newugroutebori,693,346.5 m?
+newugroutebori,694,347.0 m?
+newugroutebori,695,347.5 m?
+newugroutebori,696,348.0 m?
+newugroutebori,697,348.5 m?
+newugroutebori,698,349.0 m?
+newugroutebori,699,349.5 m?
+newugroutebori,700,350.0 m?
+newugroutebori,701,350.5 m?
+newugroutebori,702,351.0 m?
+newugroutebori,703,351.5 m?
+newugroutebori,704,352.0 m?
+newugroutebori,705,352.5 m?
+newugroutebori,706,353.0 m?
+newugroutebori,707,353.5 m?
+newugroutebori,708,354.0 m?
+newugroutebori,709,354.5 m?
+newugroutebori,710,355.0 m?
+newugroutebori,711,355.5 m?
+newugroutebori,712,356.0 m?
+newugroutebori,713,356.5 m?
+newugroutebori,714,357.0 m?
+newugroutebori,715,357.5 m?
+newugroutebori,716,358.0 m?
+newugroutebori,717,358.5 m?
+newugroutebori,718,359.0 m?
+newugroutebori,719,359.5 m?
+newugroutebori,720,360.0 m?
+newugroutebori,721,360.5 m?
+newugroutebori,722,361.0 m?
+newugroutebori,723,361.5 m?
+newugroutebori,724,362.0 m?
+newugroutebori,725,362.5 m?
+newugroutebori,726,363.0 m?
+newugroutebori,727,363.5 m?
+newugroutebori,728,364.0 m?
+newugroutebori,729,364.5 m?
+newugroutebori,730,365.0 m?
+newugroutebori,731,365.5 m?
+newugroutebori,732,366.0 m?
+newugroutebori,733,366.5 m?
+newugroutebori,734,367.0 m?
+newugroutebori,735,367.5 m?
+newugroutebori,736,368.0 m?
+newugroutebori,737,368.5 m?
+newugroutebori,738,369.0 m?
+newugroutebori,739,369.5 m?
+newugroutebori,740,370.0 m?
+newugroutebori,741,370.5 m?
+newugroutebori,742,371.0 m?
+newugroutebori,743,371.5 m?
+newugroutebori,744,372.0 m?
+newugroutebori,745,372.5 m?
+newugroutebori,746,373.0 m?
+newugroutebori,747,373.5 m?
+newugroutebori,748,374.0 m?
+newugroutebori,749,374.5 m?
+newugroutebori,750,375.0 m?
+newugroutebori,751,375.5 m?
+newugroutebori,752,376.0 m?
+newugroutebori,753,376.5 m?
+newugroutebori,754,377.0 m?
+newugroutebori,755,377.5 m?
+newugroutebori,756,378.0 m?
+newugroutebori,757,378.5 m?
+newugroutebori,758,379.0 m?
+newugroutebori,759,379.5 m?
+newugroutebori,760,380.0 m?
+newugroutebori,761,380.5 m?
+newugroutebori,762,381.0 m?
+newugroutebori,763,381.5 m?
+newugroutebori,764,382.0 m?
+newugroutebori,765,382.5 m?
+newugroutebori,766,383.0 m?
+newugroutebori,767,383.5 m?
+newugroutebori,768,384.0 m?
+newugroutebori,769,384.5 m?
+newugroutebori,770,385.0 m?
+newugroutebori,771,385.5 m?
+newugroutebori,772,386.0 m?
+newugroutebori,773,386.5 m?
+newugroutebori,774,387.0 m?
+newugroutebori,775,387.5 m?
+newugroutebori,776,388.0 m?
+newugroutebori,777,388.5 m?
+newugroutebori,778,389.0 m?
+newugroutebori,779,389.5 m?
+newugroutebori,780,390.0 m?
+newugroutebori,781,390.5 m?
+newugroutebori,782,391.0 m?
+newugroutebori,783,391.5 m?
+newugroutebori,784,392.0 m?
+newugroutebori,785,392.5 m?
+newugroutebori,786,393.0 m?
+newugroutebori,787,393.5 m?
+newugroutebori,788,394.0 m?
+newugroutebori,789,394.5 m?
+newugroutebori,790,395.0 m?
+newugroutebori,791,395.5 m?
+newugroutebori,792,396.0 m?
+newugroutebori,793,396.5 m?
+newugroutebori,794,397.0 m?
+newugroutebori,795,397.5 m?
+newugroutebori,796,398.0 m?
+newugroutebori,797,398.5 m?
+newugroutebori,798,399.0 m?
+newugroutebori,799,399.5 m?
+newugroutebori,800,400.0 m?
+newugroutebori,801,400.5 m?
+newugroutebori,802,401.0 m?
+newugroutebori,803,401.5 m?
+newugroutebori,804,402.0 m?
+newugroutebori,805,402.5 m?
+newugroutebori,806,403.0 m?
+newugroutebori,807,403.5 m?
+newugroutebori,808,404.0 m?
+newugroutebori,809,404.5 m?
+newugroutebori,810,405.0 m?
+newugroutebori,811,405.5 m?
+newugroutebori,812,406.0 m?
+newugroutebori,813,406.5 m?
+newugroutebori,814,407.0 m?
+newugroutebori,815,407.5 m?
+newugroutebori,816,408.0 m?
+newugroutebori,817,408.5 m?
+newugroutebori,818,409.0 m?
+newugroutebori,819,409.5 m?
+newugroutebori,820,410.0 m?
+newugroutebori,821,410.5 m?
+newugroutebori,822,411.0 m?
+newugroutebori,823,411.5 m?
+newugroutebori,824,412.0 m?
+newugroutebori,825,412.5 m?
+newugroutebori,826,413.0 m?
+newugroutebori,827,413.5 m?
+newugroutebori,828,414.0 m?
+newugroutebori,829,414.5 m?
+newugroutebori,830,415.0 m?
+newugroutebori,831,415.5 m?
+newugroutebori,832,416.0 m?
+newugroutebori,833,416.5 m?
+newugroutebori,834,417.0 m?
+newugroutebori,835,417.5 m?
+newugroutebori,836,418.0 m?
+newugroutebori,837,418.5 m?
+newugroutebori,838,419.0 m?
+newugroutebori,839,419.5 m?
+newugroutebori,840,420.0 m?
+newugroutebori,841,420.5 m?
+newugroutebori,842,421.0 m?
+newugroutebori,843,421.5 m?
+newugroutebori,844,422.0 m?
+newugroutebori,845,422.5 m?
+newugroutebori,846,423.0 m?
+newugroutebori,847,423.5 m?
+newugroutebori,848,424.0 m?
+newugroutebori,849,424.5 m?
+newugroutebori,850,425.0 m?
+newugroutebori,851,425.5 m?
+newugroutebori,852,426.0 m?
+newugroutebori,853,426.5 m?
+newugroutebori,854,427.0 m?
+newugroutebori,855,427.5 m?
+newugroutebori,856,428.0 m?
+newugroutebori,857,428.5 m?
+newugroutebori,858,429.0 m?
+newugroutebori,859,429.5 m?
+newugroutebori,860,430.0 m?
+newugroutebori,861,430.5 m?
+newugroutebori,862,431.0 m?
+newugroutebori,863,431.5 m?
+newugroutebori,864,432.0 m?
+newugroutebori,865,432.5 m?
+newugroutebori,866,433.0 m?
+newugroutebori,867,433.5 m?
+newugroutebori,868,434.0 m?
+newugroutebori,869,434.5 m?
+newugroutebori,870,435.0 m?
+newugroutebori,871,435.5 m?
+newugroutebori,872,436.0 m?
+newugroutebori,873,436.5 m?
+newugroutebori,874,437.0 m?
+newugroutebori,875,437.5 m?
+newugroutebori,876,438.0 m?
+newugroutebori,877,438.5 m?
+newugroutebori,878,439.0 m?
+newugroutebori,879,439.5 m?
+newugroutebori,880,440.0 m?
+newugroutebori,881,440.5 m?
+newugroutebori,882,441.0 m?
+newugroutebori,883,441.5 m?
+newugroutebori,884,442.0 m?
+newugroutebori,885,442.5 m?
+newugroutebori,886,443.0 m?
+newugroutebori,887,443.5 m?
+newugroutebori,888,444.0 m?
+newugroutebori,889,444.5 m?
+newugroutebori,890,445.0 m?
+newugroutebori,891,445.5 m?
+newugroutebori,892,446.0 m?
+newugroutebori,893,446.5 m?
+newugroutebori,894,447.0 m?
+newugroutebori,895,447.5 m?
+newugroutebori,896,448.0 m?
+newugroutebori,897,448.5 m?
+newugroutebori,898,449.0 m?
+newugroutebori,899,449.5 m?
+newugroutebori,900,450.0 m?
+newugroutebori,901,450.5 m?
+newugroutebori,902,451.0 m?
+newugroutebori,903,451.5 m?
+newugroutebori,904,452.0 m?
+newugroutebori,905,452.5 m?
+newugroutebori,906,453.0 m?
+newugroutebori,907,453.5 m?
+newugroutebori,908,454.0 m?
+newugroutebori,909,454.5 m?
+newugroutebori,910,455.0 m?
+newugroutebori,911,455.5 m?
+newugroutebori,912,456.0 m?
+newugroutebori,913,456.5 m?
+newugroutebori,914,457.0 m?
+newugroutebori,915,457.5 m?
+newugroutebori,916,458.0 m?
+newugroutebori,917,458.5 m?
+newugroutebori,918,459.0 m?
+newugroutebori,919,459.5 m?
+newugroutebori,920,460.0 m?
+newugroutebori,921,460.5 m?
+newugroutebori,922,461.0 m?
+newugroutebori,923,461.5 m?
+newugroutebori,924,462.0 m?
+newugroutebori,925,462.5 m?
+newugroutebori,926,463.0 m?
+newugroutebori,927,463.5 m?
+newugroutebori,928,464.0 m?
+newugroutebori,929,464.5 m?
+newugroutebori,930,465.0 m?
+newugroutebori,931,465.5 m?
+newugroutebori,932,466.0 m?
+newugroutebori,933,466.5 m?
+newugroutebori,934,467.0 m?
+newugroutebori,935,467.5 m?
+newugroutebori,936,468.0 m?
+newugroutebori,937,468.5 m?
+newugroutebori,938,469.0 m?
+newugroutebori,939,469.5 m?
+newugroutebori,940,470.0 m?
+newugroutebori,941,470.5 m?
+newugroutebori,942,471.0 m?
+newugroutebori,943,471.5 m?
+newugroutebori,944,472.0 m?
+newugroutebori,945,472.5 m?
+newugroutebori,946,473.0 m?
+newugroutebori,947,473.5 m?
+newugroutebori,948,474.0 m?
+newugroutebori,949,474.5 m?
+newugroutebori,950,475.0 m?
+newugroutebori,951,475.5 m?
+newugroutebori,952,476.0 m?
+newugroutebori,953,476.5 m?
+newugroutebori,954,477.0 m?
+newugroutebori,955,477.5 m?
+newugroutebori,956,478.0 m?
+newugroutebori,957,478.5 m?
+newugroutebori,958,479.0 m?
+newugroutebori,959,479.5 m?
+newugroutebori,960,480.0 m?
+newugroutebori,961,480.5 m?
+newugroutebori,962,481.0 m?
+newugroutebori,963,481.5 m?
+newugroutebori,964,482.0 m?
+newugroutebori,965,482.5 m?
+newugroutebori,966,483.0 m?
+newugroutebori,967,483.5 m?
+newugroutebori,968,484.0 m?
+newugroutebori,969,484.5 m?
+newugroutebori,970,485.0 m?
+newugroutebori,971,485.5 m?
+newugroutebori,972,486.0 m?
+newugroutebori,973,486.5 m?
+newugroutebori,974,487.0 m?
+newugroutebori,975,487.5 m?
+newugroutebori,976,488.0 m?
+newugroutebori,977,488.5 m?
+newugroutebori,978,489.0 m?
+newugroutebori,979,489.5 m?
+newugroutebori,980,490.0 m?
+newugroutebori,981,490.5 m?
+newugroutebori,982,491.0 m?
+newugroutebori,983,491.5 m?
+newugroutebori,984,492.0 m?
+newugroutebori,985,492.5 m?
+newugroutebori,986,493.0 m?
+newugroutebori,987,493.5 m?
+newugroutebori,988,494.0 m?
+newugroutebori,989,494.5 m?
+newugroutebori,990,495.0 m?
+newugroutebori,991,495.5 m?
+newugroutebori,992,496.0 m?
+newugroutebori,993,496.5 m?
+newugroutebori,994,497.0 m?
+newugroutebori,995,497.5 m?
+newugroutebori,996,498.0 m?
+newugroutebori,997,498.5 m?
+newugroutebori,998,499.0 m?
+newugroutebori,999,499.5 m?
+newugroutebori,1000,500.0 m?

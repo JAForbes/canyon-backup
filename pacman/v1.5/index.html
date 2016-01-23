@@ -1,0 +1,35 @@
+<html>
+<head>
+	<style>
+
+	@font-face {
+		font-family: pixel_font;
+		src: url('./font/pixel_font.ttf');
+	}
+
+	* {
+		font-family: pixel_font;
+	}
+	</style>
+	<title></title>
+</head>
+<body>
+	<h1>Pacguy</h1>
+	<h4>Made by Canyon</h4>
+	<canvas id='canvas' width='320' height='230'></canvas>
+	<script type='text/javascript' src='game.js'></script>
+	<h2>High Scores</h2>
+	<div>
+		<table id='scoreTable' border="1">
+			<tr>
+				<td>Name</td><td>Score</td>
+			</tr>
+			<tr>
+				<td>Canyon</td><td>400</td>
+			</tr>
+		</table>
+		<p>These scores will disappear when you refresh the page.</p>
+		<p>In the next version they will persist in <a href='http://diveintohtml5.info/storage.html'>local storage</a>.</p>
+	</div>
+</body>
+</html>

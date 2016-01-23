@@ -1,0 +1,74 @@
+<html>
+<head>
+	<!--
+		AUTHOR: JAForbes@silcarcomms.com.au
+	-->
+	<title></title>
+	<style>
+		h1
+		{
+			font-family: helvetica;
+		}
+		.clip {
+			width:32px;
+			opacity: 0.4;  
+		}
+		.clip:active {
+			opacity: 0.9; 
+			width:34px;
+		}
+		.clip:hover {
+			opacity: 0.7;  
+
+		}
+		.sprint {
+			width:100%;
+			float:left;
+		}
+		.story {
+			margin: 10px;
+			width:100%;
+			float:left;
+		}
+		.total {
+			width:100%;
+			float:left;
+		}	
+		.field
+		{
+			width:1%;
+		}	
+		.estimate {
+			margin-bottom: 10px; 
+			width:10%;
+			float:left;
+		}
+		.editable { 
+			width:75%;
+			float:left;
+		}
+		[contenteditable="true"] { 
+			margin-left: 15px;
+			padding: 5px;
+			outline: 2px dashed #CCC; 
+		}
+		[contenteditable="true"]:hover { 
+			outline: 2px dashed #0090D2; 
+		}
+	</style>
+</head>
+<body>
+	<h1><img src='icon-jira-logo.png' width="32px"></img>JIRA Scratchpad</h1>
+	<div class="story">
+		<b>Total Estimate: <i id='total'>2h</i></b>
+	</div>
+	<div class="story">
+		<p>User Stories<i contenteditable="true" id="storyCount">2</i></p>
+		</div>
+	</div>
+	<div id="stories">
+		
+	</div>
+	<script type="text/javascript" src='tally.js'></script>
+</body>
+</html>

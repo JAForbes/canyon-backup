@@ -1,0 +1,17 @@
+#used to output to webpage
+webPage = []
+
+divID = 'ohsPit'
+heading = "OHS Pit"
+
+
+if document?
+  mainSection = document.querySelector(".span10")
+  mainSection.innerHTML += "<div id='#{divID}'></div>"
+  d = document.querySelector ".nav.nav-list"
+  d.innerHTML += "<li><a href='##{divID}'>#{heading}</a></li></ul>"
+  webPage.push "<h2>#{heading}</h2>"
+  webPage.push "<a href='./fieldScripts/coffee/#{divID}.coffee'>Source Code Used To Generate Result</a>"
+  webPage.push "<br><code>/* No need to populate */</code>"
+  webPage.push "<br><code>ohs_pit = ''</code>"
+  document.getElementById("#{divID}").innerHTML = webPage.join("")

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FIR Transit Schema Logic</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+      <div class="hero-unit">
+        <h1>FIR Schema</h1>
+        <p>Documented Executable Logic</p>
+        <a class="btn btn-primary btn-large" href="duct.html">Duct</a>
+      
+        <a class="btn btn-primary btn-large" href="pit.html">Pit</a>
+
+      </div>
+      
+
+      <script src="http://code.jquery.com/jquery.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+  </body>
+  <xmp style="display:none;">
+  # FIR Transit Schema Logic
+
+  ## What is this document?
+
+  This is documentation of the logic required to produce an NBN 10.1 FIR Report.
+  The document assumes schema version 1.2.  It is recommended to use a webkit browser
+  to allow access to the interactive schema and example data.
+
+  ## How to use this document?
+
+  Each field viewable in the FIR has a section dedicated to it in this document.
+  Each field has some logic defined in javascript that will then generate the desired results.
+  Each section documents the logic and the results.
+
+  The logic itself was written in Coffeescript.  Coffeescript is a more powerful and human readable language
+  that compiles down to javascript.  The Coffeescript is viewable by clicking the link titled "Source Code Used to Generated Result".
+  It is recommended to use the coffeescript code as instruction as opposed to the compiled Javascript.
+
+  ##Why preview the Javascript instead of the Coffeescript.
+  To do so would require manually copying the business logic into a string and writing that string to the page.
+  This is why Javascript is shown within the document, as it can be displayed dynamically.
+
+  ##What is the Interactive Schema and Example Data
+  To ensure the code documented is reliable, all functions reference the schema as JSON.
+  You can access this JSON by opening the developer console (`F12` on Chrome) and typing in `codedValues` and `old_conduit` respectively.
+  Try it now.
+  
+  This will give you access to Javascript objects representing the schema.
+
+  </xmp>
+  <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+  <script type="text/javascript" src="fieldScripts/js/old_conduit.js"></script>
+  <script type="text/javascript" src="fieldScripts/js/old_pit.js"></script>
+  <script type="text/javascript" src="fieldScripts/js/newugroute.js"></script>
+  <script type="text/javascript" src="fieldScripts/js/codedValues.js"></script>
+        
+</html>
